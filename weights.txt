@@ -1,0 +1,7 @@
+using batches: 5 for train, epochs: 10, batches 10 for validation
+resnet_augmentation, accuracy: 68.12%
+resnet_no_augmentation, accuracy: 80%
+
+
+using batches: 20 for train, epochs: 10, batches 10 for validation
+resnet_no_augmentation_batch20, accuracy: 88%
